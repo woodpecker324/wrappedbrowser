@@ -16,3 +16,8 @@ History
 ------------------
 
 * Added Travis
+
+0.1.5 (2019-04-13)
+------------------
+
+* Adapted bumpversion config
