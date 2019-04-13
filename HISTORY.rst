@@ -7,7 +7,7 @@ History
 
 * First release on PyPI.
 
-0.1.1 (2019-04-13)
+0.1.2 (2019-04-13)
 ------------------
 
 * Added tox: Python 3.6, 3.7
